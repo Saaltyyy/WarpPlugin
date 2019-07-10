@@ -1,0 +1,7 @@
+name: WarpPlugin
+author: Salty
+version: 1.0
+main: de.salty.warp.main.Main
+
+commands:
+   warp:
